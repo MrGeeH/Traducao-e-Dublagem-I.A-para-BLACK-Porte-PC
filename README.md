@@ -2,7 +2,7 @@
 
 **Tradução e port de dublagem I.A por: MrGeH**
 
-Patch que deixa o **BLACK** (Criterion Games, 2006) em **português do Brasil**, com **cutscenes dubladas**, no [BLACK PC port](#agradecimentos), o port nativo para Windows feito a partir da versão de Xbox (NTSC-U).
+Patch que deixa o **BLACK** (Criterion Games, 2006) em **português do Brasil**, com **cutscenes dubladas**, no BLACK PC, o port nativo para Windows feito a partir da versão de Xbox (NTSC-U).
 
 A tradução e a dublagem vieram de versões da comunidade para PlayStation 2. Este repositório tem as ferramentas que convertem esse conteúdo para os formatos de dados do Xbox usados pelo port, sem mexer no executável do jogo.
 
