@@ -59,3 +59,5 @@ Projeto de fã, gratuito e sem fins lucrativos, sem ligação com a Criterion Ga
 Este repositório contém **apenas código e textos próprios**. Nenhum arquivo do jogo (executável, áudio, fontes, textos originais) é distribuído aqui. Para usar, você precisa da sua própria cópia legal do jogo.
 
 ---
+Tags
+#TraduçãoBLACK #TraduçãoPortBLACK
