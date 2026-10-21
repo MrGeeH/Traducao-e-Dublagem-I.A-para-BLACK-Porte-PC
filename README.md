@@ -4,7 +4,7 @@
 
 Patch que deixa o **BLACK** (Criterion Games, 2006) em **português do Brasil**, com **cutscenes dubladas**, no BLACK PC, o port nativo para Windows feito a partir da versão de Xbox (NTSC-U).
 
-A tradução e a dublagem vieram de versões da comunidade para PlayStation 2. Este repositório tem as ferramentas que convertem esse conteúdo para os formatos de dados do Xbox usados pelo port, sem mexer no executável do jogo.
+Este repositório tem as ferramentas que convertem esse conteúdo para os formatos de dados do Xbox usados pelo port, sem mexer no executável do jogo.
 
 > ⚠️ **Este repositório não contém arquivos do jogo.** Para gerar o patch você precisa da sua própria cópia do BLACK (Xbox NTSC-U para o port e uma ISO de PS2 traduzida/dublada como fonte).
 
